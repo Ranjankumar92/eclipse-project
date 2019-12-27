@@ -10,6 +10,6 @@ public class DockerController {
 
 	@GetMapping("/hello")
 	public String hello() {
-		return "Hello Docker";
+		return "Hello Docker for first commit";
 	}
 }
